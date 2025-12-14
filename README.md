@@ -53,5 +53,4 @@ Aplikasi ini dibuat sebagai implementasi konsep **Object-Oriented Programming (O
 2. Install pygame dengan perintah: pip install pygame 
 3. Jalankan game dengan perintah: python main.py
 
-aku tinggal masukin ini di file readme?
 
